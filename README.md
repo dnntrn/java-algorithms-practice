@@ -5,17 +5,17 @@ This repo documents all of the algorithms I solve as I work to improve as a prog
 ## [LeetCode](https://leetcode.com/dnntrn/)
 
 * ZigZag Conversion
-    - [LC link] (https://leetcode.com/problems/zigzag-conversion/)
+    - [LC link](https://leetcode.com/problems/zigzag-conversion/)
     - [My Solution] ()
     - Description of the problem:
           The string "PAYPALISHIRING" is written in a zigzag pattern on a given number of rows like this:
-          ```
+       
           
           P   A   H   N 
           A P L S I I G
           Y   I   R
           
-          ```
+   
           
          And then read line by line: "PAHNAPLSIIGYIR".
           
